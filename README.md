@@ -37,15 +37,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                100 commits         ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌆 Daytime                137 commits         ███████████░░░░░░░░░░░░░░   45.51 % 
-🌃 Evening                59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+🌞 Morning                98 commits          ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌆 Daytime                136 commits         ███████████░░░░░░░░░░░░░░   45.33 % 
+🌃 Evening                61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -58,9 +56,6 @@
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -79,10 +74,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/azizktata/azizktata/main/assets/bar_graph.png)
-
-
- Last Updated on 06/09/2024 19:54:13 UTC
+ Last Updated on 06/09/2024 20:00:45 UTC
 <!--END_SECTION:waka-->
