@@ -1,10 +1,14 @@
+# Hi 👋, I'm Aziz Ktata
 
-
-<h1 align="center">Hi 👋, I'm Aziz Ktata</h1>
-<h3 align="center">Full stack web developper</h3>
+💼 full-stack web developer from Tunisia, proficient in Java Spring Boot, Angular, and React, with a Master's degree in Software Engineering.
 
 - 📫 How to reach me **azizktata77@gmail.com**
 
+  
+## 💻 Currently
+
++ Completing [Advanced React course on scrimba](https://v2.scrimba.com/advanced-react-c02h:details) 📚
++ Working on [ecommerce shop](https://github.com/azizktata/dream-shop) backend system with Java Spring boot and MySQL
 
 <h3 align="left">Backend tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
