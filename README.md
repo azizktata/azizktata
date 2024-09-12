@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - full-stack web developer from Tunisia, experianced in Java Spring Boot, Angular, and React, with a Master's degree in Software Engineering.
       
- [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:azizktata77@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ktata-4ab8a01b8/)
+ [![Mail Badge](https://img.shields.io/badge/-azizktata77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:azizktata77@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-azizktata-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ktata-4ab8a01b8/)
 
 
   
