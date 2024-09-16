@@ -5,12 +5,6 @@
  [![Mail Badge](https://img.shields.io/badge/-azizktata77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:azizktata77@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-azizktata-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ktata-4ab8a01b8/)
 
 
-<img  align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="290">
-
-  
-## 💻 Currently
-+ Completing [Advanced React course on scrimba](https://v2.scrimba.com/advanced-react-c02h:details) 📚
-+ Working on [ecommerce shop](https://github.com/azizktata/dream-shop) backend system with Java Spring boot and MySQL
 
 ## Languages and Tools:
 
