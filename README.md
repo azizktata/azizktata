@@ -1,6 +1,8 @@
 # Hi 👋, I'm Aziz Ktata
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- full-stack web developer from Tunisia, experianced in Next.js - React and Java Spring Boot + Angular, with a Master's degree in Software Engineering.
+- Full-stack Next.js developer with 1 year of software development experience, holds a Master's degree in
+Software engineering and a keen interest in AI and cutting-edge technologies.
+
       
  [![Mail Badge](https://img.shields.io/badge/-azizktata77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:azizktata77@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-azizktata-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ktata-4ab8a01b8/)
 
