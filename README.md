@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aziz Ktata
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- Full-stack Next.js developer with 1 year of software development experience, holds a Master's degree in
+- Full-stack developer with 1 year of software development experience, holds a Master's degree in
 Software engineering and a keen interest in AI and cutting-edge technologies.
 
       
