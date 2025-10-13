@@ -2,9 +2,7 @@
 Full-Stack Developer (M.Sc. Software Engineering) focused on scalable, production-ready systems.
 
 - Core: Proficient in Next.js/React and Laravel/Inertia.
-
-- Operations: Knowledgeable in DevOps, CI/CD, and Cloud deployment strategies. Also holds interest in hardware and data center fundamentals.
-
+- Operations: Knowledgeable in DevOps, CI/CD, and Cloud deployment strategies.
 - Security: Building systems that last through active study of Penetration Testing and Bug Bounty Hunting.
 
       
