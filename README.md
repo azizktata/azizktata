@@ -3,8 +3,6 @@ Full-Stack Developer (M.Sc. Software Engineering) focused on scalable, productio
 
 - Core: Proficient in Next.js/React and Laravel/Inertia.
 - Operations: Knowledgeable in DevOps, CI/CD, and Cloud deployment strategies.
-- Security: Building systems that last through active study of Penetration Testing and Bug Bounty Hunting.
-
       
  [![Mail Badge](https://img.shields.io/badge/-azizktata77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:azizktata77@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-azizktata-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ktata-4ab8a01b8/)
 
